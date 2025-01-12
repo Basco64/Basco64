@@ -26,7 +26,7 @@ Passionné par le développement web et les nouvelles technologies, je suis actu
 
 ### 📈 Statistiques GitHub
 
-[![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=dark)](https://github.com/Basco64)
+[![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=Basco64&show_icons=true&theme=dark)](https://github.com/Basco64)
 
 ---
 
