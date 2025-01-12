@@ -28,8 +28,6 @@ Passionné par le développement web et les nouvelles technologies, je suis actu
 
 [![Top Langs](https://github-readme-stats-pearl-five-33.vercel.app/api/top-langs/?username=Basco64&layout=compact&theme=dark)](https://github.com/Basco64)
 
-[![Commits Summary](https://ton-instance-vercel.app/api/cards/profile-details?username=Basco64&theme=github_dark)](https://github.com/Basco64)
-
 ---
 
 ### 📫 Contact
