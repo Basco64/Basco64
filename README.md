@@ -20,7 +20,7 @@ Passionné par le développement web et les nouvelles technologies, je suis actu
 - **[Line of Light](https://line-of-light.vercel.app/)** : Un projet en cours de développement pour la communauté Line of Light. ![Statut](https://img.shields.io/badge/Statut-En%20développement-blue)
 - **[Mon Portfolio](https://www.xabi-martinez.dev/)** : Découvrez mes réalisations et mes compétences. ![Statut](https://img.shields.io/badge/Statut-En%20production-green)
 - **[FluxApp](https://flux-app-website.vercel.app/)** : Application pour se tenir à jour sur la blockchain Flux. ![Statut](https://img.shields.io/badge/Statut-En%20production-green)
-- **[Just-a-day](https://just-a-day-plus-pdf.vercel.app/)** : Petite app de gestion de la comptabilité au quotidien, notemment a recuperer un PDF avec l'activité journaliere ou mensuelle. ![Statut](https://img.shields.io/badge/Statut-En%20production-green)
+- **[Just-a-day](https://just-a-day-plus-pdf.vercel.app/)** : Une app pour gérer la comptabilité au quotidien, avec extraction de PDF pour l'activité journalière ou mensuelle. ![Statut](https://img.shields.io/badge/Statut-En%20production-green)
 
 ---
 
