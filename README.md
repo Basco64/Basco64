@@ -28,7 +28,6 @@ Passionné par le développement web et les nouvelles technologies, je suis actu
 
 [![Top Langs](https://github-readme-stats-pearl-five-33.vercel.app/api/top-langs/?username=Basco64&layout=compact&theme=dark)](https://github.com/Basco64)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBasco64&count_bg=%23007EC6&icon=github.svg&icon_color=%23E7E7E7&title=Visiteurs)
 
 ---
 
