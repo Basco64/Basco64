@@ -1,8 +1,19 @@
 # Bonjour et bienvenue 👋
 
-### Développeur Web et Web Mobile en formation
+### Développeur Web et Web Mobile
 
-Passionné par le développement web et les nouvelles technologies, je suis actuellement en fin de première année à **Holberton School**, où je prépare mon Titre Professionnel de Développeur Web et Web Mobile. J'aime créer des projets innovants et résoudre des problèmes complexes.
+Développeur web & mobile passionné, j’ai été formé à la Holberton School où j’ai obtenu le Titre Professionnel de Développeur Web et Web Mobile. Aujourd’hui, je suis pleinement opérationnel et à la recherche d’une opportunité professionnelle (CDI ou mission freelance) pour mettre mes compétences en pratique dans des projets concrets.
+
+J’aime concevoir des interfaces claires, résoudre des problèmes complexes, et collaborer au sein d’équipes techniques engagées. Mon approche : apprendre en continu, livrer du code propre et contribuer à des projets qui ont du sens.
+
+---
+
+### 🚀 Ce que je recherche
+Un poste en développement web ou mobile (React / React Native / Node.js…)
+
+Une équipe qui valorise les bonnes pratiques (tests, documentation, CI/CD)
+
+Des défis techniques et humains à relever au quotidien
 
 ---
 
